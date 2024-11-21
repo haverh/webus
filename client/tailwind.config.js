@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       flexGrow: {
-        3: '3'
+        3: '3',
+        4: '4'
       }
     },
   },
